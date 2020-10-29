@@ -1,0 +1,32 @@
+#camera,#results {
+
+border: 1px  dashed;
+border-color: brown;
+width:300px;
+height:300px;
+}
+
+
+label {
+
+color: blue
+
+
+}
+
+
+body {
+background-image:url('https://img.freepik.com/free-vector/smiling-face-emoji_6735-648.jpg?size=338&ext=jpg')
+
+
+
+}
+
+
+.updated_image, .emotion_emoji {
+
+
+font-size: 48px;
+
+    
+}
